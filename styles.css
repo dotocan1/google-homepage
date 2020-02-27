@@ -1,0 +1,28 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 206px;
+}
+
+#searchbar{
+  display: block;
+  margin-top: 25px;
+  height: 1.5em;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#searchButtons {
+  text-align: center;
+  margin-top: 20px ;
+}
+.horizontalList{
+  display: inline;
+
+}
+
+.searchButton{
+  font-size: 20px;
+}
